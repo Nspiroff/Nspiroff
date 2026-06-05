@@ -10,6 +10,7 @@ My edge is the overlap — real clinical judgment + AI fluency — so I evaluate
 |---|---|
 | 🩺 [**medical-ai-eval**](https://github.com/Nspiroff/medical-ai-eval) | Is a medical AI's *confidence* trustworthy? Calibration — ECE, Brier, reliability, risk–coverage — on board-style medical questions. *(A frontier LLM: 93% accurate but ~16 pts **under**-confident.)* |
 | 💵 [**health-insurance-ai-eval**](https://github.com/Nspiroff/health-insurance-ai-eval) | Can an AI compute what you'll actually *owe*? A cost-sharing benchmark + a transparent benefits engine. *(Model nails all 60; common shortcuts miss by **$750–$2,000**.)* |
+| 💉 [**opioid-conversion-eval**](https://github.com/Nspiroff/opioid-conversion-eval) | Can an AI safely *convert opioids*? An equianalgesic conversion benchmark + reference engine. *(Frontier model nails all 48; common errors run 2–7× off, up to **300×**.)* |
 | 🏀 [**nba-cross-era**](https://github.com/Nspiroff/nba-cross-era) | Who's the cross-era version of any NBA player? Unsupervised ML places **12,916 player-seasons (1996–2026)** in one comparable latent space. |
 | 📈 [**nba-calibrated-forecasting**](https://github.com/Nspiroff/nba-calibrated-forecasting) | Is a forecast *honest*? Distributional forecasting scored with proper rules (CRPS, calibration) — not just point accuracy. |
 
